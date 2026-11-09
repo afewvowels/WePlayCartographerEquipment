@@ -1,0 +1,11 @@
+{
+  "name": "WePlayCartographerEquipment",
+  "version": "0.1.0",
+  "title": "WePlay: Cartographer Equipment",
+  "author": "afewvowels",
+  "factorio_version": "2.1",
+  "dependencies": [
+    "base >= 2.1.0"
+  ],
+  "description": "Personal radar equipment. Charts the map around you while worn in armor or installed in the grid of a vehicle you're driving, so new planets and outposts reveal themselves as you explore. No hidden entities: it stores power and a light script charts around you. Range, scan rate and power draw are configurable, and higher quality units see farther. Does not require Space Age. Multiple units don't stack range: the best charged unit does each scan and extras act as backups. If you'd like stacking, let me know in the discussions tab!"
+}

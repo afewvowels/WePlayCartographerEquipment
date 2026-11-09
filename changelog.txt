@@ -1,0 +1,9 @@
+---------------------------------------------------------------------------------------------------
+Version: 0.1.0
+Date: 2026-11-07
+  Features:
+    - Cartographer equipment: personal radar that charts the map around you.
+    - Works in armor and in the grid of the vehicle you're driving.
+    - Configurable power draw, scan interval, radius and chunk generation.
+    - Higher quality units chart a wider area.
+    - No hidden entities and no Space Age requirement.
